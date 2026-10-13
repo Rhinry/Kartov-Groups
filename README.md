@@ -189,7 +189,7 @@ After Effects'te 3-4 farklı kompozisyonda yer alan bu katmanları her seferinde
 ### 📦 Kurulum Seçenekleri
 
 #### Seçenek 1: ZXP Installer ile Sürükle-Bırak (En Kolay Yol - Win & Mac)
-1. [`dist/KartovGroups.zxp`](dist/KartovGroups.zxp) dosyasını indirin.
+1. [`dist/KartovGroups.zxp`](KartovGroups.zxp) dosyasını indirin.
 2. Ücretsiz **[ZXP Installer](https://zxpinstaller.com/)** veya **Anastasiy's Extension Manager** programını açın.
 3. `KartovGroups.zxp` dosyasını pencereye sürükleyip bırakın.
 4. After Effects'i açıp menüden **Window > Extensions > Kartov Groups** yolunu izleyin!
